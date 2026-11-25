@@ -1,0 +1,3907 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: craft-i18n common\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==2 ? 1 : 2);\n"
+
+msgid "% of all commits"
+msgstr "% מכלל הקומיטים"
+
+msgid "(Custom)"
+msgstr "(מותאם אישית)"
+
+msgid "(none)"
+msgstr "(ללא)"
+
+msgid "1 file"
+msgstr "קובץ אחד"
+
+msgid "16 bit"
+msgstr "16 ביט"
+
+msgid "24 bit"
+msgstr "24 ביט"
+
+msgid "24 bits/pixel"
+msgstr "24 ביט לפיקסל"
+
+msgid "32 bit"
+msgstr "32 ביט"
+
+msgid "32 bits/pixel"
+msgstr "32 ביט לפיקסל"
+
+msgid "8 bit"
+msgstr "8 ביט"
+
+msgid "About"
+msgstr "אודות"
+
+msgid "Absolute"
+msgstr "מוחלט"
+
+msgid "Absolute Colorimetric"
+msgstr "קולורימטרי מוחלט"
+
+msgid "Accented Edges"
+msgstr "קצוות מודגשים"
+
+msgid "Accessibility"
+msgstr "נגישות"
+
+msgid "Accurate"
+msgstr "מדויק"
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "Activate Panel"
+msgstr "הפעלת לוח"
+
+msgid "Active"
+msgstr "פעיל"
+
+msgid "Actual Size"
+msgstr "גודל בפועל"
+
+msgid "Adaptive"
+msgstr "מסתגל"
+
+msgid "Add"
+msgstr "הוספה"
+
+msgid "Add a comment"
+msgstr "הוספת הערה"
+
+msgid "Add Guide"
+msgstr "הוספת קו עזר"
+
+msgid "Add to Dictionary"
+msgstr "הוספה למילון"
+
+msgid "Add to favorites"
+msgstr "הוספה למועדפים"
+
+msgid "Add to Swatches"
+msgstr "הוספה לדוגמיות"
+
+msgid "Adjust"
+msgstr "התאמה"
+
+msgid "Adjustments"
+msgstr "התאמות"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "Align"
+msgstr "יישור"
+
+msgid "Align center"
+msgstr "יישור למרכז"
+
+msgid "Align Left"
+msgstr "יישור לשמאל"
+
+msgid "Align left"
+msgstr "יישור לשמאל"
+
+msgid "Align Right"
+msgstr "יישור לימין"
+
+msgid "Align right"
+msgstr "יישור לימין"
+
+msgid "Align Text"
+msgstr "יישור טקסט"
+
+msgid "Align to Selection"
+msgstr "יישור לבחירה"
+
+msgid "Alignment"
+msgstr "יישור"
+
+msgid "Alignment:"
+msgstr "יישור:"
+
+msgid "All"
+msgstr "הכול"
+
+msgid "All Caps"
+msgstr "אותיות רישיות בלבד"
+
+msgid "All Categories"
+msgstr "כל הקטגוריות"
+
+msgid "All files"
+msgstr "כל הקבצים"
+
+msgid "All Layers"
+msgstr "כל השכבות"
+
+msgid "All pages"
+msgstr "כל העמודים"
+
+msgid "All Slices"
+msgstr "כל הפרוסות"
+
+msgid "Alpha"
+msgstr "אלפא"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always"
+msgstr "תמיד"
+
+msgid "Amount"
+msgstr "כמות"
+
+msgid "Amount:"
+msgstr "כמות:"
+
+msgid "Angle"
+msgstr "זווית"
+
+msgid "Angle:"
+msgstr "זווית:"
+
+msgid "Angular"
+msgstr "זוויתי"
+
+msgid "Animation"
+msgstr "הנפשה"
+
+msgid "Animation effects"
+msgstr "אפקטי הנפשה"
+
+msgid "Anti-Alias"
+msgstr "החלקת קצוות"
+
+msgid "Anti-alias"
+msgstr "החלקת קצוות"
+
+msgid "Any"
+msgstr "כל אחד"
+
+msgid "Appearance"
+msgstr "מראה"
+
+msgctxt "theme"
+msgid "Appearance"
+msgstr "מראה"
+
+msgid "Appearance Settings…"
+msgstr "הגדרות מראה…"
+
+msgid "Application"
+msgstr "יישום"
+
+msgid "Apply"
+msgstr "החלה"
+
+msgid "Apply Character Style"
+msgstr "החלת סגנון תווים"
+
+msgid "Apply Data Set"
+msgstr "החלת ערכת נתונים"
+
+msgid "Apply to:"
+msgstr "החלה על:"
+
+msgid "Arc"
+msgstr "קשת"
+
+msgid "Area"
+msgstr "שטח"
+
+msgid "Arrange"
+msgstr "סידור"
+
+msgid "Arrow"
+msgstr "חץ"
+
+msgid "Arrows"
+msgstr "חצים"
+
+msgid "Artboard"
+msgstr "לוח עבודה"
+
+msgid "Artboards"
+msgstr "לוחות עבודה"
+
+msgid "ArtCraft"
+msgstr "ArtCraft"
+
+msgid "ArtCraft Website"
+msgstr "אתר ArtCraft"
+
+msgid "ArtCraft website"
+msgstr "אתר ArtCraft"
+
+msgid "Artistic"
+msgstr "אמנותי"
+
+msgid "Ascending"
+msgstr "בסדר עולה"
+
+msgid "Aspect Ratio"
+msgstr "יחס גובה-רוחב"
+
+msgid "Assign"
+msgstr "הקצאה"
+
+msgid "Assign Profile…"
+msgstr "הקצאת פרופיל…"
+
+msgid "Audio"
+msgstr "שמע"
+
+msgid "Author"
+msgstr "מחבר"
+
+msgid "Author:"
+msgstr "מחבר:"
+
+msgid "Auto"
+msgstr "אוטומטי"
+
+msgid "Auto ({percent}%)"
+msgstr "אוטומטי ({percent}%)"
+
+msgid "Auto Color"
+msgstr "צבע אוטומטי"
+
+msgid "Automate"
+msgstr "אוטומציה"
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Automatically"
+msgstr "אוטומטית"
+
+msgid "AutoSave"
+msgstr ""
+
+msgid "Available"
+msgstr "זמין"
+
+msgid "Average"
+msgstr "ממוצע"
+
+msgid "Background"
+msgstr "רקע"
+
+msgid "Background Color"
+msgstr "צבע רקע"
+
+msgid "Background Contents"
+msgstr "תוכן הרקע"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Balance"
+msgstr "איזון"
+
+msgid "Bar"
+msgstr "פס"
+
+msgid "Baseline"
+msgstr "קו בסיס"
+
+msgid "Baseline Shift"
+msgstr "הזזת קו בסיס"
+
+msgid "Basic"
+msgstr "בסיסי"
+
+msgid "Basic Latin"
+msgstr "לטינית בסיסית"
+
+msgid "Batch"
+msgstr "אצווה"
+
+msgid "Batch…"
+msgstr "אצווה…"
+
+msgid "Bend:"
+msgstr "כיפוף:"
+
+msgid "Bicubic"
+msgstr "בי-קובי"
+
+msgid "Binary assets added"
+msgstr "נכסים בינאריים שנוספו"
+
+msgid "Binary assets removed"
+msgstr "נכסים בינאריים שהוסרו"
+
+msgid "Bitmap"
+msgstr "מפת סיביות"
+
+msgid "Black"
+msgstr "שחור"
+
+msgid "Black & White"
+msgstr "שחור-לבן"
+
+msgid "Black and white"
+msgstr "שחור-לבן"
+
+msgid "Black Intensity"
+msgstr "עוצמת שחור"
+
+msgid "Blacks"
+msgstr "שחורים"
+
+msgid "Blend Mode"
+msgstr "מצב מיזוג"
+
+msgid "Blending Mode"
+msgstr "מצב מיזוג"
+
+msgid "Block"
+msgstr "בלוק"
+
+msgid "Blocks"
+msgstr "בלוקים"
+
+msgid "Blue"
+msgstr "כחול"
+
+msgid "Blur"
+msgstr "טשטוש"
+
+msgid "Blur Angle"
+msgstr "זווית טשטוש"
+
+msgid "Bold"
+msgstr "מודגש"
+
+msgid "Border"
+msgstr "גבול"
+
+msgid "Border Thickness"
+msgstr "עובי גבול"
+
+msgid "Borders"
+msgstr "גבולות"
+
+msgid "Both"
+msgstr "שניהם"
+
+msgid "Both sides"
+msgstr "שני הצדדים"
+
+msgid "Bottom"
+msgstr "למטה"
+
+msgid "Bottom Left"
+msgstr "שמאל למטה"
+
+msgid "Bottom Right"
+msgstr "ימין למטה"
+
+msgid "Bottom:"
+msgstr "למטה:"
+
+msgid "Break Link"
+msgstr "ניתוק קישור"
+
+msgid "Brick"
+msgstr "לבנים"
+
+msgid "Brightness"
+msgstr "בהירות"
+
+msgid "Bring Forward"
+msgstr "הבאה קדימה"
+
+msgid "Bring to Front"
+msgstr "הבאה לחזית"
+
+msgid "Brown"
+msgstr "חום"
+
+msgid "Browse"
+msgstr "עיון"
+
+msgid "Browse…"
+msgstr "עיון…"
+
+msgid "Brush Size"
+msgstr "גודל מברשת"
+
+msgid "Brush Strokes"
+msgstr "משיכות מברשת"
+
+msgid "Brushes"
+msgstr "מברשות"
+
+msgid "Bulge"
+msgstr "בליטה"
+
+msgid "Bullet"
+msgstr "תבליט"
+
+msgid "Burlap"
+msgstr "יוטה"
+
+msgid "Calculate"
+msgstr "חישוב"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Canvas"
+msgstr "קנבס"
+
+msgid "Caption"
+msgstr "כיתוב"
+
+msgid "Cascade"
+msgstr "מדורג"
+
+msgid "Case Sensitive"
+msgstr "תלוי רישיות"
+
+msgid "Category"
+msgstr "קטגוריה"
+
+msgid "Category:"
+msgstr "קטגוריה:"
+
+msgid "Cell Size"
+msgstr "גודל תא"
+
+msgid "Center"
+msgstr "מרכז"
+
+msgid "Center X"
+msgstr "מרכז X"
+
+msgid "Center Y"
+msgstr "מרכז Y"
+
+msgid "Centered"
+msgstr "ממורכז"
+
+msgid "Centimeters"
+msgstr "סנטימטרים"
+
+msgid "Chamfer"
+msgstr "שיפוע פינות"
+
+msgid "Change"
+msgstr "שינוי"
+
+msgid "Change All"
+msgstr "שינוי הכול"
+
+msgid "Change Case"
+msgstr "שינוי רישיות"
+
+msgid "Change Panel Layout"
+msgstr "שינוי פריסת הלוח"
+
+msgid "Channel"
+msgstr "ערוץ"
+
+msgid "Channel Mixer"
+msgstr "מערבל ערוצים"
+
+msgid "Channels"
+msgstr "ערוצים"
+
+msgid "Character"
+msgstr "תו"
+
+msgid "Character Styles"
+msgstr "סגנונות תווים"
+
+msgid "Characters"
+msgstr "תווים"
+
+msgid "Check for Updates"
+msgstr "בדיקת עדכונים"
+
+msgid "Check for updates"
+msgstr "בדיקת עדכונים"
+
+msgid "Check Spelling…"
+msgstr "בדיקת איות…"
+
+msgid "Checkerboard"
+msgstr "לוח שחמט"
+
+msgid "Choose…"
+msgstr "בחירה…"
+
+msgid "Circle"
+msgstr "עיגול"
+
+msgid "City"
+msgstr "עיר"
+
+msgid "Clarity"
+msgstr "בהירות מקומית"
+
+msgid "Classic"
+msgstr "קלאסי"
+
+msgid "Clear"
+msgstr "ניקוי"
+
+msgid "Clear All"
+msgstr "ניקוי הכול"
+
+msgid "Clear Guides"
+msgstr "ניקוי קווי עזר"
+
+msgid "Clear History"
+msgstr "ניקוי היסטוריה"
+
+msgid "Clear Recent Files"
+msgstr "ניקוי קבצים אחרונים"
+
+msgid "Clipboard"
+msgstr "לוח"
+
+msgid "Clipping Mask"
+msgstr "מסכת חיתוך"
+
+msgid "Clone"
+msgstr "שכפול"
+
+msgid "Close"
+msgstr "סגירה"
+
+msgid "Close (Esc)"
+msgstr "סגירה (Esc)"
+
+msgid "Close All"
+msgstr "סגירת הכול"
+
+msgid "Close Panel"
+msgstr "סגירת לוח"
+
+msgid "Cmd"
+msgstr "Cmd"
+
+msgid "CMYK Color"
+msgstr "צבע CMYK"
+
+msgid "CMYK:"
+msgstr "CMYK:"
+
+msgid "Coarse Dots"
+msgstr "נקודות גסות"
+
+msgid "Collapse"
+msgstr "כיווץ"
+
+msgid "Collate"
+msgstr "סידור עותקים"
+
+msgid "Color"
+msgstr "צבע"
+
+msgid "Color Balance"
+msgstr "איזון צבעים"
+
+msgid "Color Burn"
+msgstr "צריבת צבע"
+
+msgid "Color Dodge"
+msgstr "הלבנת צבע"
+
+msgid "Color Management"
+msgstr "ניהול צבע"
+
+msgid "Color Mode"
+msgstr "מצב צבע"
+
+msgid "Color Picker"
+msgstr "בורר צבעים"
+
+msgid "Color Settings"
+msgstr "הגדרות צבע"
+
+msgid "Color Settings…"
+msgstr "הגדרות צבע…"
+
+msgid "Color Space"
+msgstr "מרחב צבע"
+
+msgid "Color Swatches"
+msgstr "דוגמיות צבע"
+
+msgid "Color Table"
+msgstr "טבלת צבעים"
+
+msgid "Color:"
+msgstr "צבע:"
+
+msgid "Colorize"
+msgstr "צביעה"
+
+msgid "Colors"
+msgstr "צבעים"
+
+msgid "Colors:"
+msgstr "צבעים:"
+
+msgid "Color…"
+msgstr "צבע…"
+
+msgid "Colour"
+msgstr "צבע"
+
+msgid "Column width"
+msgstr "רוחב עמודה"
+
+msgid "Columns"
+msgstr "עמודות"
+
+msgid "Columns:"
+msgstr "עמודות:"
+
+msgid "Combine"
+msgstr "שילוב"
+
+msgid "Command"
+msgstr "Command"
+
+msgid "Commands:"
+msgstr "פקודות:"
+
+msgid "Comment"
+msgstr "הערה"
+
+msgid "Comments"
+msgstr "הערות"
+
+msgid "Commits"
+msgstr "קומיטים"
+
+msgid "Community"
+msgstr "קהילה"
+
+msgid "Company"
+msgstr "חברה"
+
+msgid "Compare"
+msgstr "השוואה"
+
+msgid "Comparison"
+msgstr "השוואה"
+
+msgid "Compatibility"
+msgstr "תאימות"
+
+msgid "Composite"
+msgstr "מורכב"
+
+msgid "Compression"
+msgstr "דחיסה"
+
+msgid "Cone"
+msgstr "חרוט"
+
+msgid "Contains"
+msgstr "מכיל"
+
+msgid "Continue"
+msgstr "המשך"
+
+msgid "Contrast"
+msgstr "ניגודיות"
+
+msgid "Contributors"
+msgstr "תורמים"
+
+msgid "Convert"
+msgstr "המרה"
+
+msgid "Convert to Shape"
+msgstr "המרה לצורה"
+
+msgid "Convert to sRGB"
+msgstr "המרה ל-sRGB"
+
+msgid "Copies"
+msgstr "עותקים"
+
+msgid "Copies:"
+msgstr "עותקים:"
+
+msgid "Copy"
+msgstr "העתקה"
+
+msgid "Copyright"
+msgstr "זכויות יוצרים"
+
+msgid "Copyrighted"
+msgstr "מוגן בזכויות יוצרים"
+
+msgid "Corner"
+msgstr "פינה"
+
+msgid "Corners"
+msgstr "פינות"
+
+msgid "Correction"
+msgstr "תיקון"
+
+msgid "Couldn't open {name}: {e}"
+msgstr "לא ניתן לפתוח את {name}: {e}"
+
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "Couldn't open {name}: {e}"
+msgstr "לא ניתן לפתוח את {name}: {e}"
+
+msgid "Country"
+msgstr "מדינה"
+
+msgid "Crack Brightness"
+msgstr "בהירות סדקים"
+
+msgid "Crack Depth"
+msgstr "עומק סדקים"
+
+msgid "Crack Spacing"
+msgstr "ריווח סדקים"
+
+msgid "Create"
+msgstr "יצירה"
+
+msgid "Create Clipping Mask"
+msgstr "יצירת מסכת חיתוך"
+
+msgid "Crop"
+msgstr "חיתוך"
+
+msgid "Cross"
+msgstr "צלב"
+
+msgid "Crosshatch"
+msgstr "קווקוו צולב"
+
+msgid "Crystallize"
+msgstr "התגבשות"
+
+msgid "Crystallize…"
+msgstr "התגבשות…"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Current"
+msgstr "נוכחי"
+
+msgid "Current page"
+msgstr "העמוד הנוכחי"
+
+msgid "Current Time"
+msgstr "הזמן הנוכחי"
+
+msgid "Curvature"
+msgstr "עקמומיות"
+
+msgid "Curve"
+msgstr "עקומה"
+
+msgid "Curves"
+msgstr "עקומות"
+
+msgid "Curves…"
+msgstr "עקומות…"
+
+msgid "Custom"
+msgstr "מותאם אישית"
+
+msgid "Customize…"
+msgstr "התאמה אישית…"
+
+msgid "Cut"
+msgstr "גזירה"
+
+msgid "Cyan"
+msgstr "ציאן"
+
+msgid "Dark"
+msgstr "כהה"
+
+msgid "Dark Gray"
+msgstr "אפור כהה"
+
+msgid "Dark gray"
+msgstr "אפור כהה"
+
+msgid "Dark Strokes"
+msgstr "משיכות כהות"
+
+msgid "Dark Theme"
+msgstr "ערכת נושא כהה"
+
+msgid "Darken"
+msgstr "הכהיה"
+
+msgid "Darkness"
+msgstr "כהות"
+
+msgid "Dashed"
+msgstr "מקווקו"
+
+msgid "Data"
+msgstr "נתונים"
+
+msgid "Data Sets"
+msgstr "ערכות נתונים"
+
+msgid "Date"
+msgstr "תאריך"
+
+msgid "Date and Time"
+msgstr "תאריך ושעה"
+
+msgid "Date Created"
+msgstr "תאריך יצירה"
+
+msgid "Date format"
+msgstr "תבנית תאריך"
+
+msgid "Dates"
+msgstr "תאריכים"
+
+msgid "De-Interlace"
+msgstr "ביטול שזירה"
+
+msgid "Decrease Font Size"
+msgstr "הקטנת גודל הגופן"
+
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgid "Delete"
+msgstr "מחיקה"
+
+msgid "Delete Brush"
+msgstr "מחיקת מברשת"
+
+msgid "Delete Group"
+msgstr "מחיקת קבוצה"
+
+msgid "Delete Layer"
+msgstr "מחיקת שכבה"
+
+msgid "Delete Mask"
+msgstr "מחיקת מסכה"
+
+msgid "Delete Style"
+msgstr "מחיקת סגנון"
+
+msgid "Delete Workspace"
+msgstr "מחיקת סביבת עבודה"
+
+msgid "Deleted"
+msgstr "נמחק"
+
+msgid "Delete…"
+msgstr "מחיקה…"
+
+msgid "Depth"
+msgstr "עומק"
+
+msgid "Desaturate"
+msgstr "הפחתת רוויה"
+
+msgid "Descending"
+msgstr "בסדר יורד"
+
+msgid "Description"
+msgstr "תיאור"
+
+msgid "Description:"
+msgstr "תיאור:"
+
+msgid "Deselect"
+msgstr "ביטול בחירה"
+
+msgid "Deselect All"
+msgstr "ביטול בחירת הכול"
+
+msgid "Destination"
+msgstr "יעד"
+
+msgid "Destination:"
+msgstr "יעד:"
+
+msgid "Details"
+msgstr "פרטים"
+
+msgid "Diagonal"
+msgstr "אלכסוני"
+
+msgid "Diameter"
+msgstr "קוטר"
+
+msgid "Diameter:"
+msgstr "קוטר:"
+
+msgid "Diamond"
+msgstr "מעוין"
+
+msgid "Difference"
+msgstr "הפרש"
+
+msgid "Diffuse Glow"
+msgstr "זוהר מפוזר"
+
+msgid "Diffusion"
+msgstr "פיזור"
+
+msgid "Digits"
+msgstr "ספרות"
+
+msgid "Dimensions"
+msgstr "ממדים"
+
+msgid "Direct Selection Tool"
+msgstr "כלי בחירה ישירה"
+
+msgid "Direction"
+msgstr "כיוון"
+
+msgid "Direction Balance"
+msgstr "איזון כיוון"
+
+msgid "Direction:"
+msgstr "כיוון:"
+
+msgid "Discard"
+msgstr "השלכה"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Discretionary Ligatures"
+msgstr "ליגטורות אופציונליות"
+
+msgid "Dismiss"
+msgstr "סגירה"
+
+msgid "Display"
+msgstr "תצוגה"
+
+msgid "Display name"
+msgstr "שם תצוגה"
+
+msgid "Distance"
+msgstr "מרחק"
+
+msgid "Distort"
+msgstr "עיוות"
+
+msgid "Distortion"
+msgstr "עיוות"
+
+msgid "Distribute"
+msgstr "פיזור"
+
+msgid "Divide"
+msgstr "חילוק"
+
+msgid "Dock Panel"
+msgstr "עגינת לוח"
+
+msgid "Document"
+msgstr "מסמך"
+
+msgid "Document Title"
+msgstr "כותרת המסמך"
+
+msgid "Documents"
+msgstr "מסמכים"
+
+msgid "Don't Save"
+msgstr "לא לשמור"
+
+msgid "Done"
+msgstr "בוצע"
+
+msgid "Dot"
+msgstr "נקודה"
+
+msgid "Dots"
+msgstr "נקודות"
+
+msgid "Dotted"
+msgstr "מנוקד"
+
+msgid "Double-click"
+msgstr "לחיצה כפולה"
+
+msgid "Down"
+msgstr "למטה"
+
+msgid "Download"
+msgstr "הורדה"
+
+msgid "Draft"
+msgstr "טיוטה"
+
+msgid "Draw"
+msgstr "ציור"
+
+msgid "Drop Shadow"
+msgstr "צל נופל"
+
+msgid "Drop Shadow…"
+msgstr "צל נופל…"
+
+msgid "Duplicate"
+msgstr "שכפול"
+
+msgid "Duplicate Layer"
+msgstr "שכפול שכבה"
+
+msgid "Duplicate…"
+msgstr "שכפול…"
+
+msgid "Duplication"
+msgstr "שכפול"
+
+msgid "Duration"
+msgstr "משך"
+
+msgid "Dutch"
+msgstr "הולנדית"
+
+msgid "Dynamic"
+msgstr "דינמי"
+
+msgid "Dynamics"
+msgstr "דינמיקה"
+
+msgid "Edge"
+msgstr "קצה"
+
+msgid "Edge Brightness"
+msgstr "בהירות קצה"
+
+msgid "Edge Intensity"
+msgstr "עוצמת קצה"
+
+msgid "Edge Only"
+msgstr "קצה בלבד"
+
+msgid "Edge Simplicity"
+msgstr "פשטות קצה"
+
+msgid "Edge Thickness"
+msgstr "עובי קצה"
+
+msgid "Edge Width"
+msgstr "רוחב קצה"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "Edit Contents"
+msgstr "עריכת תוכן"
+
+msgid "Edit Original"
+msgstr "עריכת המקור"
+
+msgid "Edit Toolbar"
+msgstr "עריכת סרגל הכלים"
+
+msgid "Editing"
+msgstr "עריכה"
+
+msgid "Edit…"
+msgstr "עריכה…"
+
+msgid "Effect"
+msgstr "אפקט"
+
+msgid "Effects"
+msgstr "אפקטים"
+
+msgid "Elevation"
+msgstr "גובה"
+
+msgid "Eliminate"
+msgstr "סילוק"
+
+msgid "Ellipse"
+msgstr "אליפסה"
+
+msgid "Ellipse Tool"
+msgstr "כלי אליפסה"
+
+msgid "Ellipsis"
+msgstr "שלוש נקודות"
+
+msgid "Em Dash"
+msgstr "מקף ארוך"
+
+msgid "Em Space"
+msgstr "רווח Em"
+
+msgid "Embed"
+msgstr "הטמעה"
+
+msgid "Emboss"
+msgstr "תבליט"
+
+msgid "En Dash"
+msgstr "מקף בינוני"
+
+msgid "En Space"
+msgstr "רווח En"
+
+msgid "Enable"
+msgstr "הפעלה"
+
+msgid "Endpoint"
+msgstr "נקודת קצה"
+
+msgid "Enlarged"
+msgstr "מוגדל"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Entire Font"
+msgstr "כל הגופן"
+
+msgid "Envelope DL"
+msgstr "מעטפה DL"
+
+msgid "Erase"
+msgstr "מחיקה"
+
+msgid "Eraser"
+msgstr "מחק"
+
+msgid "Eraser Tool"
+msgstr "כלי מחק"
+
+msgid "Error"
+msgstr "שגיאה"
+
+msgid "Even Fields"
+msgstr "שדות זוגיים"
+
+msgid "Even pages only"
+msgstr "עמודים זוגיים בלבד"
+
+msgid "Exact"
+msgstr "מדויק"
+
+msgid "Example: {sample}"
+msgstr "דוגמה: {sample}"
+
+msgid "Exclusion"
+msgstr "החרגה"
+
+msgid "Exit"
+msgstr "יציאה"
+
+msgid "Expand"
+msgstr "הרחבה"
+
+msgid "Export"
+msgstr "ייצוא"
+
+msgid "Export As"
+msgstr "ייצוא בשם"
+
+msgid "Export As…"
+msgstr "ייצוא בשם…"
+
+msgid "Export Options"
+msgstr "אפשרויות ייצוא"
+
+msgid "Export PDF"
+msgstr "ייצוא PDF"
+
+msgid "Export to"
+msgstr "ייצוא אל"
+
+msgid "Exported to {path}"
+msgstr "הייצוא נשמר ב-{path}"
+
+msgid "Exported {path}"
+msgstr "הייצוא הושלם: {path}"
+
+msgid "Export…"
+msgstr "ייצוא…"
+
+msgid "Exposure"
+msgstr "חשיפה"
+
+msgid "Expression"
+msgstr "ביטוי"
+
+msgid "Extract"
+msgstr "חילוץ"
+
+msgid "Eyedropper"
+msgstr "טפטפת"
+
+msgid "Eyedropper Tool"
+msgstr "כלי טפטפת"
+
+msgid "Faded Film"
+msgstr "סרט דהוי"
+
+msgid "Fast"
+msgstr "מהיר"
+
+msgid "Favorites"
+msgstr "מועדפים"
+
+msgid "Feather"
+msgstr "הנעמת קצוות"
+
+msgid "Field"
+msgstr "שדה"
+
+msgid "Field properties"
+msgstr "מאפייני שדה"
+
+msgid "Fields"
+msgstr "שדות"
+
+msgid "Fields:"
+msgstr "שדות:"
+
+msgid "File"
+msgstr "קובץ"
+
+msgid "File Format"
+msgstr "תבנית קובץ"
+
+msgid "File Handling"
+msgstr "טיפול בקבצים"
+
+msgid "File Info…"
+msgstr "פרטי קובץ…"
+
+msgid "File Name"
+msgstr "שם קובץ"
+
+msgid "File Size"
+msgstr "גודל קובץ"
+
+msgid "Files"
+msgstr "קבצים"
+
+msgid "Fill"
+msgstr "מילוי"
+
+msgid "Fill:"
+msgstr "מילוי:"
+
+msgid "Filter"
+msgstr "מסנן"
+
+msgid "Find"
+msgstr "חיפוש"
+
+msgid "Find and Replace"
+msgstr "חיפוש והחלפה"
+
+msgid "Find Next"
+msgstr "חיפוש הבא"
+
+msgid "Find:"
+msgstr "חיפוש:"
+
+msgid "Find…"
+msgstr "חיפוש…"
+
+msgid "Fine Dots"
+msgstr "נקודות עדינות"
+
+msgid "Finish"
+msgstr "סיום"
+
+msgid "First"
+msgstr "ראשון"
+
+msgid "First commit"
+msgstr "הקומיט הראשון"
+
+msgid "Fit"
+msgstr "התאמה"
+
+msgid "Fit in View"
+msgstr "התאמה לתצוגה"
+
+msgid "Fixed"
+msgstr "קבוע"
+
+msgid "Flash"
+msgstr "הבזק"
+
+msgid "Flatten"
+msgstr "שיטוח"
+
+msgid "Flip"
+msgstr "היפוך"
+
+msgid "Flip Horizontal"
+msgstr "היפוך אופקי"
+
+msgid "Flip Vertical"
+msgstr "היפוך אנכי"
+
+msgid "Focus"
+msgstr "מיקוד"
+
+msgid "Folder"
+msgstr "תיקייה"
+
+msgid "Font"
+msgstr "גופן"
+
+msgid "Font Size"
+msgstr "גודל גופן"
+
+msgid "Font size"
+msgstr "גודל גופן"
+
+msgid "Font Size:"
+msgstr "גודל גופן:"
+
+msgid "Font:"
+msgstr "גופן:"
+
+msgid "Fonts"
+msgstr "גופנים"
+
+msgid "Format"
+msgstr "עיצוב"
+
+msgid "Format:"
+msgstr "עיצוב:"
+
+msgid "Fractions"
+msgstr "שברים"
+
+msgid "Frame"
+msgstr "מסגרת"
+
+msgid "Free"
+msgstr "חופשי"
+
+msgid "Free Transform"
+msgstr "המרה חופשית"
+
+msgid "French"
+msgstr "צרפתית"
+
+msgid "Frequency"
+msgstr "תדירות"
+
+msgid "From"
+msgstr "מ-"
+
+msgid "Frosted"
+msgstr "חלבי"
+
+msgid "Full"
+msgstr "מלא"
+
+msgid "Full Screen"
+msgstr "מסך מלא"
+
+msgid "Full Screen Mode"
+msgstr "מצב מסך מלא"
+
+msgid "Functions"
+msgstr "פונקציות"
+
+msgid "Gamma"
+msgstr "גמא"
+
+msgid "Gamma Correction"
+msgstr "תיקון גמא"
+
+msgid "Gamut Warning"
+msgstr "אזהרת טווח צבעים"
+
+msgid "Gaussian Blur"
+msgstr "טשטוש גאוסיאני"
+
+msgid "Gaussian Blur…"
+msgstr "טשטוש גאוסיאני…"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "General…"
+msgstr "כללי…"
+
+msgid "Generate"
+msgstr "יצירה"
+
+msgid "Geometry"
+msgstr "גאומטריה"
+
+msgid "German"
+msgstr "גרמנית"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "Glass"
+msgstr "זכוכית"
+
+msgid "Global"
+msgstr "גלובלי"
+
+msgid "Glow"
+msgstr "זוהר"
+
+msgid "Glow Brightness"
+msgstr "בהירות זוהר"
+
+msgid "Glow Size"
+msgstr "גודל זוהר"
+
+msgid "Glyphs"
+msgstr "גליפים"
+
+msgid "Good"
+msgstr "טוב"
+
+msgid "Gradient"
+msgstr "מעבר צבעים"
+
+msgid "Gradient Tool"
+msgstr "כלי מעבר צבעים"
+
+msgid "Gradients"
+msgstr "מעברי צבעים"
+
+msgid "Grain"
+msgstr "גרעין"
+
+msgid "Grain Type"
+msgstr "סוג גרעין"
+
+msgid "Graininess"
+msgstr "גרעיניות"
+
+msgid "Grainy Dots"
+msgstr "נקודות גרעיניות"
+
+msgid "Graphic"
+msgstr "גרפיקה"
+
+msgid "Graphics"
+msgstr "גרפיקה"
+
+msgid "Gray"
+msgstr "אפור"
+
+msgid "Gray Gamma 2.2"
+msgstr "אפור גמא 2.2"
+
+msgid "Grayscale"
+msgstr "גווני אפור"
+
+msgid "Green"
+msgstr "ירוק"
+
+msgid "Grid"
+msgstr "רשת"
+
+msgid "Grid Size:"
+msgstr "גודל רשת:"
+
+msgid "Grid view"
+msgstr "תצוגת רשת"
+
+msgid "Gridline every"
+msgstr "קו רשת כל"
+
+msgid "Group"
+msgstr "קיבוץ"
+
+msgid "Group with"
+msgstr "קיבוץ עם"
+
+msgid "Groups"
+msgstr "קבוצות"
+
+msgid "Grout Width"
+msgstr "רוחב מליט"
+
+msgid "Guides"
+msgstr "קווי עזר"
+
+msgid "Halftone Pattern"
+msgstr "תבנית חצי-גוון"
+
+msgid "Hand"
+msgstr "יד"
+
+msgid "Hand Tool"
+msgstr "כלי יד"
+
+msgid "Hard"
+msgstr "קשה"
+
+msgid "Hard Light"
+msgstr "אור קשה"
+
+msgid "Hard Mix"
+msgstr "מיזוג קשה"
+
+msgid "Headings"
+msgstr "כותרות"
+
+msgid "Heart"
+msgstr "לב"
+
+msgid "Height"
+msgstr "גובה"
+
+msgid "Height:"
+msgstr "גובה:"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "Hexagon"
+msgstr "משושה"
+
+msgid "Hidden"
+msgstr "מוסתר"
+
+msgid "Hidden text"
+msgstr "טקסט מוסתר"
+
+msgid "Hide"
+msgstr "הסתרה"
+
+msgid "Hide All"
+msgstr "הסתרת הכול"
+
+msgid "Hide Grid"
+msgstr "הסתרת רשת"
+
+msgid "Hide Others"
+msgstr "הסתרת האחרים"
+
+msgid "High"
+msgstr "גבוה"
+
+msgid "High Pass"
+msgstr "מעביר גבוהים"
+
+msgid "High Resolution"
+msgstr "רזולוציה גבוהה"
+
+msgid "High resolution"
+msgstr "רזולוציה גבוהה"
+
+msgid "Highlight Area"
+msgstr "אזור הדגשה"
+
+msgid "Highlights"
+msgstr "הארות"
+
+msgid "Hindi"
+msgstr "הינדי"
+
+msgid "Histogram"
+msgstr "היסטוגרמה"
+
+msgid "History"
+msgstr "היסטוריה"
+
+msgid "Hollow"
+msgstr "חלול"
+
+msgid "Home"
+msgstr "בית"
+
+msgid "Horizontal"
+msgstr "אופקי"
+
+msgid "Horizontal scale"
+msgstr "קנה מידה אופקי"
+
+msgid "Horizontally"
+msgstr "אופקית"
+
+msgid "Hue"
+msgstr "גוון"
+
+msgid "Hue Shift"
+msgstr "הסטת גוון"
+
+msgid "Hue/Saturation…"
+msgstr "גוון/רוויה…"
+
+msgid "Hyphenation"
+msgstr "מיקוף"
+
+msgid "Icon"
+msgstr "אייקון"
+
+msgid "Ignore"
+msgstr "התעלמות"
+
+msgid "Ignore All"
+msgstr "התעלמות מהכול"
+
+msgid "Image"
+msgstr "תמונה"
+
+msgid "Image Size"
+msgstr "גודל תמונה"
+
+msgid "Images"
+msgstr "תמונות"
+
+msgid "Import"
+msgstr "ייבוא"
+
+msgid "Import…"
+msgstr "ייבוא…"
+
+msgid "Inches"
+msgstr "אינצ'ים"
+
+msgid "Increase Font Size"
+msgstr "הגדלת גודל גופן"
+
+msgid "Index"
+msgstr "אינדקס"
+
+msgid "Inflate"
+msgstr "ניפוח"
+
+msgid "Info"
+msgstr "מידע"
+
+msgid "Inner Glow…"
+msgstr "זוהר פנימי…"
+
+msgid "Input:"
+msgstr "קלט:"
+
+msgid "Insert"
+msgstr "הוספה"
+
+msgid "Inside"
+msgstr "בפנים"
+
+msgid "Inspect Document"
+msgstr "בדיקת מסמך"
+
+msgid "Install Plug-in"
+msgstr "התקנת תוסף"
+
+msgid "Install Plug-in…"
+msgstr "התקנת תוסף…"
+
+msgid "Intensity"
+msgstr "עוצמה"
+
+msgid "Interface"
+msgstr "ממשק"
+
+msgid "Interface Language"
+msgstr "שפת הממשק"
+
+msgid "Interface language"
+msgstr "שפת הממשק"
+
+msgid "Interface Theme"
+msgstr "ערכת נושא לממשק"
+
+msgid "Interlaced"
+msgstr "משולב"
+
+msgid "Interpolation"
+msgstr "אינטרפולציה"
+
+msgid "Intersect"
+msgstr "חיתוך"
+
+msgid "Intersection"
+msgstr "חיתוך"
+
+msgid "Invert"
+msgstr "היפוך"
+
+msgid "Invert Mask"
+msgstr "היפוך מסכה"
+
+msgid "Isolate"
+msgstr "בידוד"
+
+msgid "Italian"
+msgstr "איטלקית"
+
+msgid "Italic"
+msgstr "נטוי"
+
+msgid "Japanese"
+msgstr "יפנית"
+
+msgid "Join"
+msgstr "צירוף"
+
+msgid "Join our Discord"
+msgstr "הצטרפו ל-Discord שלנו"
+
+msgid "Join the ArtCraft Discord"
+msgstr "הצטרפו ל-Discord של ArtCraft"
+
+msgid "Join the ArtCraft Discord…"
+msgstr "הצטרפו ל-Discord של ArtCraft…"
+
+msgid "Join us on Discord"
+msgstr "הצטרפו אלינו ב-Discord"
+
+msgid "just now"
+msgstr "הרגע"
+
+msgid "Justification"
+msgstr "יישור"
+
+msgid "Justify"
+msgstr "יישור לשני הצדדים"
+
+msgid "Keep:"
+msgstr "שמירה:"
+
+msgid "Kerning"
+msgstr "קרנינג"
+
+msgid "Keyboard Shortcuts"
+msgstr "קיצורי מקלדת"
+
+msgid "Keyboard Shortcuts…"
+msgstr "קיצורי מקלדת…"
+
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+msgid "Kind"
+msgstr "סוג"
+
+msgid "Korean"
+msgstr "קוריאנית"
+
+msgid "Lab"
+msgstr "Lab"
+
+msgid "Label"
+msgstr "תווית"
+
+msgid "Labels"
+msgstr "תוויות"
+
+msgid "Landscape"
+msgstr "לרוחב"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "Language Options"
+msgstr "אפשרויות שפה"
+
+msgid "Language:"
+msgstr "שפה:"
+
+msgid "Large"
+msgstr "גדול"
+
+msgid "Lasso"
+msgstr "לאסו"
+
+msgid "Lasso Tool"
+msgstr "כלי לאסו"
+
+msgid "Last"
+msgstr "אחרון"
+
+msgid "Last commit"
+msgstr "הקומיט האחרון"
+
+msgid "Later"
+msgstr "מאוחר יותר"
+
+msgid "Layer"
+msgstr "שכבה"
+
+msgid "Layers"
+msgstr "שכבות"
+
+msgid "Layout"
+msgstr "פריסה"
+
+msgid "Layout:"
+msgstr "פריסה:"
+
+msgid "Leading"
+msgstr "מרווח שורות"
+
+msgid "Left"
+msgstr "שמאל"
+
+msgid "Left Diagonal"
+msgstr "אלכסון שמאלי"
+
+msgid "Left to Right"
+msgstr "משמאל לימין"
+
+msgid "Left:"
+msgstr "שמאל:"
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Length"
+msgstr "אורך"
+
+msgid "Length:"
+msgstr "אורך:"
+
+msgid "Lens Flare"
+msgstr "הבהוב עדשה"
+
+msgid "Less"
+msgstr "פחות"
+
+msgid "Letter"
+msgstr "מכתב"
+
+msgid "Level"
+msgstr "רמה"
+
+msgid "Level 1"
+msgstr "רמה 1"
+
+msgid "Level 2"
+msgstr "רמה 2"
+
+msgid "Level 3"
+msgstr "רמה 3"
+
+msgid "Level 4"
+msgstr "רמה 4"
+
+msgid "Levels"
+msgstr "רמות"
+
+msgid "Levels…"
+msgstr "רמות…"
+
+msgid "Libraries"
+msgstr "ספריות"
+
+msgid "Library"
+msgstr "ספרייה"
+
+msgid "Light"
+msgstr "בהיר"
+
+msgid "Light Blue"
+msgstr "כחול בהיר"
+
+msgid "Light Direction"
+msgstr "כיוון אור"
+
+msgid "Light Gray"
+msgstr "אפור בהיר"
+
+msgid "Light gray"
+msgstr "אפור בהיר"
+
+msgid "Light Intensity"
+msgstr "עוצמת אור"
+
+msgid "Light Theme"
+msgstr "ערכת נושא בהירה"
+
+msgid "Light Type"
+msgstr "סוג אור"
+
+msgid "Lighten"
+msgstr "הבהרה"
+
+msgid "Lighter Color"
+msgstr "צבע בהיר יותר"
+
+msgid "Lighting"
+msgstr "תאורה"
+
+msgid "Lighting Effects"
+msgstr "אפקטי תאורה"
+
+msgid "Lightness"
+msgstr "בהירות"
+
+msgid "Line"
+msgstr "קו"
+
+msgid "Line delta"
+msgstr "הפרש שורות"
+
+msgid "Line spacing"
+msgstr "מרווח בין שורות"
+
+msgid "Linear"
+msgstr "לינארי"
+
+msgid "Linear Burn"
+msgstr "צריבה לינארית"
+
+msgid "Linear Gradient"
+msgstr "מעבר צבעים לינארי"
+
+msgid "Linear Light"
+msgstr "אור לינארי"
+
+msgid "Lines"
+msgstr "שורות"
+
+msgid "Lines +/−"
+msgstr "שורות +/−"
+
+msgid "Lines added"
+msgstr "שורות שנוספו"
+
+msgid "Lines deleted"
+msgstr "שורות שנמחקו"
+
+msgid "Link"
+msgstr "קישור"
+
+msgid "Links"
+msgstr "קישורים"
+
+msgid "List"
+msgstr "רשימה"
+
+msgid "List View"
+msgstr "תצוגת רשימה"
+
+msgid "List view"
+msgstr "תצוגת רשימה"
+
+msgid "Location"
+msgstr "מיקום"
+
+msgid "Location:"
+msgstr "מיקום:"
+
+msgid "Lock"
+msgstr "נעילה"
+
+msgid "Lock Guides"
+msgstr "נעילת קווי עזר"
+
+msgid "Lock Slices"
+msgstr "נעילת פרוסות"
+
+msgid "Locked"
+msgstr "נעול"
+
+msgid "Long Lines"
+msgstr "קווים ארוכים"
+
+msgid "Long Strokes"
+msgstr "משיכות ארוכות"
+
+msgid "Low"
+msgstr "נמוך"
+
+msgid "lowercase"
+msgstr "אותיות קטנות"
+
+msgid "Luminance"
+msgstr "לומיננס"
+
+msgid "Luminosity"
+msgstr "לומינוסיטי"
+
+msgid "Magenta"
+msgstr "מג'נטה"
+
+msgid "Magic Wand Tool"
+msgstr "כלי שרביט קסמים"
+
+msgid "Magnification"
+msgstr "הגדלה"
+
+msgid "Margins"
+msgstr "שוליים"
+
+msgid "Mask"
+msgstr "מסכה"
+
+msgid "Masks"
+msgstr "מסכות"
+
+msgid "Matte"
+msgstr "מט"
+
+msgid "Maximize"
+msgstr "הגדלה למקסימום"
+
+msgid "Maximum"
+msgstr "מקסימום"
+
+msgid "Measure"
+msgstr "מדידה"
+
+msgid "Median"
+msgstr "חציון"
+
+msgid "Medium"
+msgstr "בינוני"
+
+msgid "Medium Dots"
+msgstr "נקודות בינוניות"
+
+msgid "Medium Gray"
+msgstr "אפור בינוני"
+
+msgid "Medium Lines"
+msgstr "קווים בינוניים"
+
+msgid "Merge"
+msgstr "מיזוג"
+
+msgid "Merge Cells"
+msgstr "מיזוג תאים"
+
+msgid "Merge Layers"
+msgstr "מיזוג שכבות"
+
+msgid "Merged PRs"
+msgstr "בקשות משיכה שמוזגו"
+
+msgid "Mesh"
+msgstr "רשת"
+
+msgid "Message:"
+msgstr "הודעה:"
+
+msgid "Metadata"
+msgstr "מטא-נתונים"
+
+msgid "Method"
+msgstr "שיטה"
+
+msgid "Method:"
+msgstr "שיטה:"
+
+msgid "Mezzotint"
+msgstr "מזוטינט"
+
+msgid "Mezzotint…"
+msgstr "מזוטינט…"
+
+msgid "Middle"
+msgstr "אמצע"
+
+msgid "Midpoint"
+msgstr "נקודת אמצע"
+
+msgid "Midtones"
+msgstr "גוונים בינוניים"
+
+msgid "Millimeters"
+msgstr "מילימטרים"
+
+msgid "Minimize"
+msgstr "מזעור"
+
+msgid "Minimum"
+msgstr "מינימום"
+
+msgid "Mirror"
+msgstr "שיקוף"
+
+msgid "Missing"
+msgstr "חסר"
+
+msgid "Mobile"
+msgstr "נייד"
+
+msgid "Mode"
+msgstr "מצב"
+
+msgid "Mode:"
+msgstr "מצב:"
+
+msgid "Model"
+msgstr "מודל"
+
+msgid "Models"
+msgstr "מודלים"
+
+msgid "Modern"
+msgstr "מודרני"
+
+msgid "Modified"
+msgstr "שונה"
+
+msgid "Modify"
+msgstr "שינוי"
+
+msgid "Monitor RGB"
+msgstr "RGB של מסך"
+
+msgid "Mono"
+msgstr "מונו"
+
+msgid "Monochrome"
+msgstr "מונוכרום"
+
+msgid "More"
+msgstr "עוד"
+
+msgid "Mosaic"
+msgstr "פסיפס"
+
+msgid "Mosaic Tiles"
+msgstr "אריחי פסיפס"
+
+msgid "Motion"
+msgstr "תנועה"
+
+msgid "Move"
+msgstr "הזזה"
+
+msgid "Move Down"
+msgstr "הזזה למטה"
+
+msgid "Move Panel"
+msgstr "הזזת לוח"
+
+msgid "Move Up"
+msgstr "הזזה למעלה"
+
+msgid "Multiply"
+msgstr "הכפלה"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "Name (A–Z)"
+msgstr "שם (א–ת)"
+
+msgid "Name:"
+msgstr "שם:"
+
+msgid "Navigation"
+msgstr "ניווט"
+
+msgid "Navigator"
+msgstr "מנווט"
+
+msgid "Neon Glow"
+msgstr "זוהר ניאון"
+
+msgid "Never"
+msgstr "אף פעם"
+
+msgid "New"
+msgstr "חדש"
+
+msgid "New Document"
+msgstr "מסמך חדש"
+
+msgid "New document"
+msgstr "מסמך חדש"
+
+msgid "New from Template"
+msgstr "חדש מתבנית"
+
+msgid "New Group"
+msgstr "קבוצה חדשה"
+
+msgid "New Guide"
+msgstr "קו עזר חדש"
+
+msgid "New Layer"
+msgstr "שכבה חדשה"
+
+msgid "New Layer…"
+msgstr "שכבה חדשה…"
+
+msgid "New Style…"
+msgstr "סגנון חדש…"
+
+msgid "New Swatch…"
+msgstr "דוגמית חדשה…"
+
+msgid "New Window"
+msgstr "חלון חדש"
+
+msgid "New Workspace"
+msgstr "סביבת עבודה חדשה"
+
+msgid "New Workspace…"
+msgstr "סביבת עבודה חדשה…"
+
+msgid "New…"
+msgstr "חדש…"
+
+msgid "Next"
+msgstr "הבא"
+
+msgid "Next Appearance Mode"
+msgstr "מצב המראה הבא"
+
+msgid "Next Change"
+msgstr "השינוי הבא"
+
+msgid "Next Page"
+msgstr "העמוד הבא"
+
+msgid "Next page"
+msgstr "העמוד הבא"
+
+msgid "No"
+msgstr "לא"
+
+msgid "No Color"
+msgstr "ללא צבע"
+
+msgid "No Dither"
+msgstr "ללא ריצוד"
+
+msgid "No Document"
+msgstr "אין מסמך"
+
+msgid "No document"
+msgstr "אין מסמך"
+
+msgid "No document open"
+msgstr "אין מסמך פתוח"
+
+msgid "No limit"
+msgstr "ללא הגבלה"
+
+msgid "No matches."
+msgstr "אין התאמות."
+
+msgid "No matching commands"
+msgstr "אין פקודות תואמות"
+
+msgid "No recent files"
+msgstr "אין קבצים אחרונים"
+
+msgid "No results"
+msgstr "אין תוצאות"
+
+msgid "No Selection"
+msgstr "אין בחירה"
+
+msgid "No selection"
+msgstr "אין בחירה"
+
+msgid "Noise"
+msgstr "רעש"
+
+msgid "Nonbreaking Space"
+msgstr "רווח בלתי ניתן לשבירה"
+
+msgid "None"
+msgstr "ללא"
+
+msgid "Normal"
+msgstr "רגיל"
+
+msgid "Not available"
+msgstr "לא זמין"
+
+msgid "NTSC Colors"
+msgstr "צבעי NTSC"
+
+msgid "Number"
+msgstr "מספר"
+
+msgid "Object"
+msgstr "אובייקט"
+
+msgid "Octagon"
+msgstr "מתומן"
+
+msgid "Odd Fields"
+msgstr "שדות אי-זוגיים"
+
+msgid "Odd pages only"
+msgstr "עמודים אי-זוגיים בלבד"
+
+msgid "Off"
+msgstr "כבוי"
+
+msgid "Offline"
+msgstr "לא מקוון"
+
+msgid "Offset"
+msgstr "היסט"
+
+msgid "Offset:"
+msgstr "היסט:"
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "Omit"
+msgstr "השמטה"
+
+msgid "On"
+msgstr "מופעל"
+
+msgid "Only Web Colors"
+msgstr "צבעי רשת בלבד"
+
+msgid "Opacity"
+msgstr "אטימות"
+
+msgid "Opacity:"
+msgstr "אטימות:"
+
+msgid "Open"
+msgstr "פתיחה"
+
+msgid "Open link"
+msgstr "פתיחת קישור"
+
+msgid "Open Recent"
+msgstr "פתיחת אחרונים"
+
+msgid "OpenType"
+msgstr "OpenType"
+
+msgid "Open…"
+msgstr "פתיחה…"
+
+msgid "Optimized"
+msgstr "ממוטב"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "Options…"
+msgstr "אפשרויות…"
+
+msgid "Orange"
+msgstr "כתום"
+
+msgid "Ordinals"
+msgstr "מספרים סידוריים"
+
+msgid "Orientation"
+msgstr "כיוון"
+
+msgid "Orientation:"
+msgstr "כיוון:"
+
+msgid "Original"
+msgstr "מקורי"
+
+msgid "Other"
+msgstr "אחר"
+
+msgid "Outer Glow…"
+msgstr "זוהר חיצוני…"
+
+msgid "Outline"
+msgstr "חלוקה לרמות"
+
+msgid "Output"
+msgstr "פלט"
+
+msgid "Output:"
+msgstr "פלט:"
+
+msgid "Outside"
+msgstr "בחוץ"
+
+msgid "Oval"
+msgstr "אליפסה"
+
+msgid "Overlap:"
+msgstr "חפיפה:"
+
+msgid "Overlay"
+msgstr "שכבת-על"
+
+msgid "Package…"
+msgstr "אריזה…"
+
+msgid "Page"
+msgstr "עמוד"
+
+msgid "Page {page} of {pages}"
+msgstr "עמוד {page} מתוך {pages}"
+
+msgid "Pages"
+msgstr "עמודים"
+
+msgid "Painting"
+msgstr "צביעה"
+
+msgid "Panel"
+msgstr "לוח"
+
+msgid "Panel menu"
+msgstr "תפריט הלוח"
+
+msgid "Panel Options…"
+msgstr "אפשרויות לוח…"
+
+msgid "Panels"
+msgstr "לוחות"
+
+msgid "Paper"
+msgstr "נייר"
+
+msgid "Paragraph"
+msgstr "פסקה"
+
+msgid "Paragraph Styles"
+msgstr "סגנונות פסקה"
+
+msgid "Password"
+msgstr "סיסמה"
+
+msgid "Paste"
+msgstr "הדבקה"
+
+msgid "Paste Special"
+msgstr "הדבקה מיוחדת"
+
+msgid "Patchwork"
+msgstr "טלאים"
+
+msgid "Path"
+msgstr "נתיב"
+
+msgid "Path:"
+msgstr "נתיב:"
+
+msgid "Paths"
+msgstr "נתיבים"
+
+msgid "Pattern"
+msgstr "תבנית"
+
+msgid "Pattern Type"
+msgstr "סוג תבנית"
+
+msgid "Pause"
+msgstr "השהיה"
+
+msgid "Pen"
+msgstr "עט"
+
+msgid "Pen Tool"
+msgstr "כלי עט"
+
+msgid "Pencil"
+msgstr "עיפרון"
+
+msgid "Pencil Tool"
+msgstr "כלי עיפרון"
+
+msgid "Pentagon"
+msgstr "מחומש"
+
+msgid "Percent"
+msgstr "אחוז"
+
+msgid "Percentage"
+msgstr "אחוזים"
+
+msgid "Performance"
+msgstr "ביצועים"
+
+msgid "Perimeter"
+msgstr "היקף"
+
+msgid "Perspective"
+msgstr "פרספקטיבה"
+
+msgid "Photo"
+msgstr "תצלום"
+
+msgid "Photocopy"
+msgstr "העתק צילומי"
+
+msgid "Picas"
+msgstr "פיקות"
+
+msgid "Pin Light"
+msgstr "אור מוקדי"
+
+msgid "Pink"
+msgstr "ורוד"
+
+msgid "Pixel"
+msgstr "פיקסל"
+
+msgid "Pixelate"
+msgstr "פיקסול"
+
+msgid "Pixels"
+msgstr "פיקסלים"
+
+msgid "Play"
+msgstr "הפעלה"
+
+msgid "Plug-ins"
+msgstr "תוספים"
+
+msgid "Point"
+msgstr "נקודה"
+
+msgid "Pointillize"
+msgstr "פוינטיליזם"
+
+msgid "Pointillize…"
+msgstr "פוינטיליזם…"
+
+msgid "Points"
+msgstr "נקודות"
+
+msgid "Polygon"
+msgstr "מצולע"
+
+msgid "Polygon Tool"
+msgstr "כלי מצולע"
+
+msgid "Polyline"
+msgstr "קו שבור"
+
+msgid "Portrait"
+msgstr "לאורך"
+
+msgid "Portuguese"
+msgstr "פורטוגזית"
+
+msgid "Position"
+msgstr "מיקום"
+
+msgid "Position:"
+msgstr "מיקום:"
+
+msgid "Postcard"
+msgstr "גלויה"
+
+msgid "Poster"
+msgstr "פוסטר"
+
+msgid "Poster Edges"
+msgstr "קצוות פוסטר"
+
+msgid "Posterization"
+msgstr "פוסטריזציה"
+
+msgid "Posterize"
+msgstr "פוסטריזציה"
+
+msgid "Preferences"
+msgstr "העדפות"
+
+msgid "Preferences…"
+msgstr "העדפות…"
+
+msgid "Prefix"
+msgstr "תחילית"
+
+msgid "Preserve"
+msgstr "שימור"
+
+msgid "Preserve Luminosity"
+msgstr "שימור בהירות"
+
+msgid "Preset"
+msgstr "הגדרה קבועה מראש"
+
+msgid "Preset Manager"
+msgstr "מנהל הגדרות קבועות"
+
+msgid "Preset:"
+msgstr "הגדרה קבועה מראש:"
+
+msgid "Presets"
+msgstr "הגדרות קבועות מראש"
+
+msgid "Presets:"
+msgstr "הגדרות קבועות מראש:"
+
+msgid "Press keys…"
+msgstr "הקישו על מקשים…"
+
+msgid "Pressure"
+msgstr "לחץ"
+
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+msgid "Previous"
+msgstr "הקודם"
+
+msgid "Previous Change"
+msgstr "השינוי הקודם"
+
+msgid "Previous Page"
+msgstr "העמוד הקודם"
+
+msgid "Previous page"
+msgstr "העמוד הקודם"
+
+msgid "Print"
+msgstr "הדפסה"
+
+msgid "Printer"
+msgstr "מדפסת"
+
+msgid "Printer:"
+msgstr "מדפסת:"
+
+msgid "Printing"
+msgstr "הדפסה"
+
+msgid "Print…"
+msgstr "הדפסה…"
+
+msgid "Profile"
+msgstr "פרופיל"
+
+msgid "Progressive"
+msgstr "פרוגרסיבי"
+
+msgid "Proof Setup"
+msgstr "הגדרת הוכחת צבע"
+
+msgid "Properties"
+msgstr "מאפיינים"
+
+msgid "Protect"
+msgstr "הגנה"
+
+msgid "PRs"
+msgstr "בקשות משיכה"
+
+msgid "Public Domain"
+msgstr "נחלת הכלל"
+
+msgid "Punctuation"
+msgstr "פיסוק"
+
+msgid "Purple"
+msgstr "סגול"
+
+msgid "Pyramid"
+msgstr "פירמידה"
+
+msgid "Quality"
+msgstr "איכות"
+
+msgid "Quick Actions"
+msgstr "פעולות מהירות"
+
+msgid "Radial"
+msgstr "רדיאלי"
+
+msgid "Radial Blur"
+msgstr "טשטוש רדיאלי"
+
+msgid "Radial Blur…"
+msgstr "טשטוש רדיאלי…"
+
+msgid "Radial Gradient"
+msgstr "מעבר צבעים רדיאלי"
+
+msgid "Radius"
+msgstr "רדיוס"
+
+msgid "Radius:"
+msgstr "רדיוס:"
+
+msgid "Random"
+msgstr "אקראי"
+
+msgid "Range"
+msgstr "טווח"
+
+msgid "Range:"
+msgstr "טווח:"
+
+msgid "Rasterize"
+msgstr "רסטור"
+
+msgid "Ratio"
+msgstr "יחס"
+
+msgid "Rays"
+msgstr "קרניים"
+
+msgid "Ready"
+msgstr "מוכן"
+
+msgid "Real name"
+msgstr "שם אמיתי"
+
+msgid "Recent"
+msgstr "אחרונים"
+
+msgid "Recent Colors"
+msgstr "צבעים אחרונים"
+
+msgid "Recent Files"
+msgstr "קבצים אחרונים"
+
+msgid "Recover"
+msgstr "שחזור"
+
+msgid "Rectangle"
+msgstr "מלבן"
+
+msgid "Rectangle Tool"
+msgstr "כלי מלבן"
+
+msgid "Rectangular"
+msgstr "מלבני"
+
+msgid "Red"
+msgstr "אדום"
+
+msgid "Redo"
+msgstr "ביצוע מחדש"
+
+msgid "Reduce Noise"
+msgstr "הפחתת רעש"
+
+msgid "Refine"
+msgstr "עידון"
+
+msgid "Reflected"
+msgstr "משתקף"
+
+msgid "Refresh"
+msgstr "רענון"
+
+msgid "Regular"
+msgstr "רגיל"
+
+msgid "Relative"
+msgstr "יחסי"
+
+msgid "Relative Colorimetric"
+msgstr "קולורימטרי יחסי"
+
+msgid "Relaxed"
+msgstr "מרווח"
+
+msgid "Relief"
+msgstr "רליף"
+
+msgid "Reload"
+msgstr "טעינה מחדש"
+
+msgid "Remove"
+msgstr "הסרה"
+
+msgid "Remove Background"
+msgstr "הסרת רקע"
+
+msgid "Remove from favorites"
+msgstr "הסרה מהמועדפים"
+
+msgid "Rename"
+msgstr "שינוי שם"
+
+msgid "Rename Group…"
+msgstr "שינוי שם קבוצה…"
+
+msgid "Rename Style"
+msgstr "שינוי שם סגנון"
+
+msgid "Rename…"
+msgstr "שינוי שם…"
+
+msgid "Repeat"
+msgstr "חזרה"
+
+msgid "Replace"
+msgstr "החלפה"
+
+msgid "Replace:"
+msgstr "החלפה:"
+
+msgid "Reply"
+msgstr "תשובה"
+
+msgid "Report"
+msgstr "דוח"
+
+msgid "Report an Issue…"
+msgstr "דיווח על בעיה…"
+
+msgid "Reselect"
+msgstr "בחירה מחדש"
+
+msgid "Reset"
+msgstr "איפוס"
+
+msgid "Reset Preferences"
+msgstr "איפוס העדפות"
+
+msgid "Reset…"
+msgstr "איפוס…"
+
+msgid "Resize panel window"
+msgstr "שינוי גודל חלון הלוח"
+
+msgid "Resize panels"
+msgstr "שינוי גודל לוחות"
+
+msgid "Resolution"
+msgstr "רזולוציה"
+
+msgid "Resolution:"
+msgstr "רזולוציה:"
+
+msgid "Restore"
+msgstr "שחזור"
+
+msgid "Result"
+msgstr "תוצאה"
+
+msgid "Resume"
+msgstr "חידוש"
+
+msgid "Reveal in Finder"
+msgstr "הצגה ב-Finder"
+
+msgid "Reverse"
+msgstr "הפוך"
+
+msgid "Reverse the order"
+msgstr "היפוך הסדר"
+
+msgid "Revert"
+msgstr "חזרה לגרסה שמורה"
+
+msgid "Review"
+msgstr "סקירה"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "RGB Color"
+msgstr "צבע RGB"
+
+msgid "RGB:"
+msgstr "RGB:"
+
+msgid "Right"
+msgstr "ימין"
+
+msgid "Right Diagonal"
+msgstr "אלכסון ימני"
+
+msgid "Right:"
+msgstr "ימין:"
+
+msgid "Rotate"
+msgstr "סיבוב"
+
+msgid "Rotate:"
+msgstr "סיבוב:"
+
+msgid "Rotation"
+msgstr "סיבוב"
+
+msgid "Rotation:"
+msgstr "סיבוב:"
+
+msgid "Rounded Rectangle"
+msgstr "מלבן מעוגל"
+
+msgid "Roundness"
+msgstr "עגלגלות"
+
+msgid "Roundness:"
+msgstr "עגלגלות:"
+
+msgid "Rows"
+msgstr "שורות"
+
+msgid "Ruler"
+msgstr "סרגל"
+
+msgid "Rulers"
+msgstr "סרגלים"
+
+msgid "Rulers & Grids"
+msgstr "סרגלים ורשתות"
+
+msgid "Russian"
+msgstr "רוסית"
+
+msgid "Sample Size"
+msgstr "גודל דגימה"
+
+msgid "Sandstone"
+msgstr "אבן חול"
+
+msgid "Saturation"
+msgstr "רוויה"
+
+msgid "Save"
+msgstr "שמירה"
+
+msgid "Save a Copy"
+msgstr "שמירת עותק"
+
+msgid "Save a Copy…"
+msgstr "שמירת עותק…"
+
+msgid "Save As"
+msgstr "שמירה בשם"
+
+msgid "Save as PDF"
+msgstr "שמירה כ-PDF"
+
+msgid "Save as Template"
+msgstr "שמירה כתבנית"
+
+msgid "Save as Template…"
+msgstr "שמירה כתבנית…"
+
+msgid "Save As…"
+msgstr "שמירה בשם…"
+
+msgid "Save Preset…"
+msgstr "שמירת הגדרה קבועה…"
+
+msgid "Save Selection"
+msgstr "שמירת בחירה"
+
+msgid "Save Selection…"
+msgstr "שמירת בחירה…"
+
+msgid "Saved"
+msgstr "נשמר"
+
+msgid "Save…"
+msgstr "שמירה…"
+
+msgid "Scale"
+msgstr "קנה מידה"
+
+msgid "Scale:"
+msgstr "קנה מידה:"
+
+msgid "Scaling"
+msgstr "שינוי קנה מידה"
+
+msgid "Scratch Disks"
+msgstr "דיסקי גרד"
+
+msgid "Scratch Disks…"
+msgstr "דיסקי גרד…"
+
+msgid "Screen"
+msgstr "מסך"
+
+msgid "Screen Mode"
+msgstr "מצב מסך"
+
+msgid "Scripts"
+msgstr "כתבים"
+
+msgid "Search"
+msgstr "חיפוש"
+
+msgid "Security"
+msgstr "אבטחה"
+
+msgid "Segments"
+msgstr "מקטעים"
+
+msgid "Select"
+msgstr "בחירה"
+
+msgid "Select All"
+msgstr "בחירת הכול"
+
+msgid "Select Objects"
+msgstr "בחירת אובייקטים"
+
+msgid "Select:"
+msgstr "בחירה:"
+
+msgid "Selected pages"
+msgstr "עמודים נבחרים"
+
+msgid "Selection"
+msgstr "בחירה"
+
+msgid "Selection Tool"
+msgstr "כלי בחירה"
+
+msgid "Selective"
+msgstr "סלקטיבי"
+
+msgid "Send Backward"
+msgstr "העברה אחורה"
+
+msgid "Send to Back"
+msgstr "שליחה לאחור"
+
+msgid "Sensitivity"
+msgstr "רגישות"
+
+msgid "Sent to {printer}"
+msgstr "נשלח אל {printer}"
+
+msgid "Services"
+msgstr "שירותים"
+
+msgid "Set"
+msgstr "קביעה"
+
+msgid "Set as Default"
+msgstr "הגדרה כברירת מחדל"
+
+msgid "Set:"
+msgstr "ערכה:"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Settings:"
+msgstr "הגדרות:"
+
+msgid "Settings…"
+msgstr "הגדרות…"
+
+msgid "Shadow"
+msgstr "צל"
+
+msgid "Shadows"
+msgstr "צללים"
+
+msgid "Shape"
+msgstr "צורה"
+
+msgid "Shape Effects"
+msgstr "אפקטים של צורה"
+
+msgid "Shape:"
+msgstr "צורה:"
+
+msgid "Shapes"
+msgstr "צורות"
+
+msgid "Share"
+msgstr "שיתוף"
+
+msgid "Sharpen"
+msgstr "חידוד"
+
+msgid "Sharpness"
+msgstr "חדות"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short Lines"
+msgstr "קווים קצרים"
+
+msgid "Short Strokes"
+msgstr "משיכות קצרות"
+
+msgid "Shortcut"
+msgstr "קיצור"
+
+msgid "Shortcuts"
+msgstr "קיצורים"
+
+msgid "Show"
+msgstr "הצגה"
+
+msgid "Show All"
+msgstr "הצגת הכול"
+
+msgid "Show Grid"
+msgstr "הצגת רשת"
+
+msgid "Show Guides"
+msgstr "הצגת קווי עזר"
+
+msgid "Show in Folder"
+msgstr "הצגה בתיקייה"
+
+msgid "Show Mask"
+msgstr "הצגת מסכה"
+
+msgid "Show Mesh"
+msgstr "הצגת רשת"
+
+msgid "Show Rulers"
+msgstr "הצגת סרגלים"
+
+msgid "Show rulers"
+msgstr "הצגת סרגלים"
+
+msgid "Show Tool Tips"
+msgstr "הצגת עצות כלי"
+
+msgid "Show:"
+msgstr "הצגה:"
+
+msgid "Sides:"
+msgstr "צלעות:"
+
+msgid "Simplify"
+msgstr "פישוט"
+
+msgid "Size"
+msgstr "גודל"
+
+msgid "Size:"
+msgstr "גודל:"
+
+msgid "Sketch"
+msgstr "סקיצה"
+
+msgid "Skew"
+msgstr "הטיה"
+
+msgid "Slice"
+msgstr "פרוסה"
+
+msgid "Slice Options"
+msgstr "אפשרויות פרוסה"
+
+msgid "Slice Options…"
+msgstr "אפשרויות פרוסה…"
+
+msgid "Slice Tool"
+msgstr "כלי פרוסה"
+
+msgid "Slices"
+msgstr "פרוסות"
+
+msgid "Small"
+msgstr "קטן"
+
+msgid "Small Caps"
+msgstr "אותיות רישיות קטנות"
+
+msgid "Smart Blur"
+msgstr "טשטוש חכם"
+
+msgid "Smart Blur…"
+msgstr "טשטוש חכם…"
+
+msgid "Smart Guides"
+msgstr "קווי עזר חכמים"
+
+msgid "Smart quotes"
+msgstr "מרכאות חכמות"
+
+msgid "Smoothness"
+msgstr "חלקות"
+
+msgid "Snap to Grid"
+msgstr "הצמדה לרשת"
+
+msgid "Soft"
+msgstr "רך"
+
+msgid "Soft Light"
+msgstr "אור רך"
+
+msgid "Soften"
+msgstr "ריכוך"
+
+msgid "Softness"
+msgstr "רכות"
+
+msgid "Solarize"
+msgstr "סולריזציה"
+
+msgid "Sort"
+msgstr "מיון"
+
+msgid "Sort by"
+msgstr "מיון לפי"
+
+msgid "Source"
+msgstr "מקור"
+
+msgid "Source code on GitHub"
+msgstr "קוד מקור ב-GitHub"
+
+msgid "Spaces"
+msgstr "רווחים"
+
+msgid "Spacing"
+msgstr "ריווח"
+
+msgid "Spacing:"
+msgstr "ריווח:"
+
+msgid "Spanish"
+msgstr "ספרדית"
+
+msgid "Spatter"
+msgstr "ניתז"
+
+msgid "Special"
+msgstr "מיוחד"
+
+msgid "Speckle"
+msgstr "כתמים"
+
+msgid "Speed"
+msgstr "מהירות"
+
+msgid "Spelling"
+msgstr "איות"
+
+msgid "Spherize"
+msgstr "כדוריות"
+
+msgid "Split"
+msgstr "פיצול"
+
+msgid "Spot Color"
+msgstr "צבע ספוט"
+
+msgid "Spray Radius"
+msgstr "רדיוס ריסוס"
+
+msgid "Square"
+msgstr "ריבוע"
+
+msgid "Square Size"
+msgstr "גודל ריבוע"
+
+msgid "sRGB IEC61966-2.1"
+msgstr "sRGB IEC61966-2.1"
+
+msgid "Stacked"
+msgstr "מוערם"
+
+msgid "Stained Glass"
+msgstr "זכוכית צבעונית"
+
+msgid "Stamp"
+msgstr "חותמת"
+
+msgid "Standard"
+msgstr "סטנדרטי"
+
+msgid "Standard Ligatures"
+msgstr "ליגטורות רגילות"
+
+msgid "Star"
+msgstr "כוכב"
+
+msgid "Start at:"
+msgstr "התחלה ב:"
+
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+msgid "Status"
+msgstr "סטטוס"
+
+msgid "Status Bar"
+msgstr "שורת המצב"
+
+msgid "Stippled"
+msgstr "ריצוד נקודות"
+
+msgid "Stop"
+msgstr "עצירה"
+
+msgid "Strength"
+msgstr "חוזק"
+
+msgid "Stretch"
+msgstr "מתיחה"
+
+msgid "Strikethrough"
+msgstr "קו חוצה"
+
+msgid "Stroke"
+msgstr "קו מתאר"
+
+msgid "Stroke Color"
+msgstr "צבע קו מתאר"
+
+msgid "Stroke Length"
+msgstr "אורך משיכה"
+
+msgid "Stroke Options"
+msgstr "אפשרויות קו מתאר"
+
+msgid "Stroke:"
+msgstr "קו מתאר:"
+
+msgid "Studio"
+msgstr "סטודיו"
+
+msgid "Style"
+msgstr "סגנון"
+
+msgid "Style:"
+msgstr "סגנון:"
+
+msgid "Styles"
+msgstr "סגנונות"
+
+msgid "Stylize"
+msgstr "עיצוב אמנותי"
+
+msgid "Subdivisions"
+msgstr "תתי-חלוקות"
+
+msgid "Subject"
+msgstr "נושא"
+
+msgid "Subscript"
+msgstr "כתב תחתי"
+
+msgid "Subset"
+msgstr "תת-קבוצה"
+
+msgid "Subtitle"
+msgstr "כותרת משנה"
+
+msgid "Subtract"
+msgstr "חיסור"
+
+msgid "Sumi-e"
+msgstr "סומי-אה"
+
+msgid "Summary"
+msgstr "סיכום"
+
+msgid "Superscript"
+msgstr "כתב עילי"
+
+msgid "Swatches"
+msgstr "דוגמיות"
+
+msgid "Symbol"
+msgstr "סמל"
+
+msgid "Symbols"
+msgstr "סמלים"
+
+msgid "Sync with system"
+msgstr "סנכרון עם המערכת"
+
+msgid "System"
+msgstr "מערכת"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "טבלה"
+
+msgid "Table style"
+msgstr "סגנון טבלה"
+
+msgid "Tables"
+msgstr "טבלאות"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Tabs"
+msgstr "טאבים"
+
+msgid "Taper"
+msgstr "הצרה"
+
+msgid "Target"
+msgstr "יעד"
+
+msgid "Target:"
+msgstr "יעד:"
+
+msgid "Temperature"
+msgstr "טמפרטורה"
+
+msgid "Templates"
+msgstr "תבניות"
+
+msgid "Text"
+msgstr "טקסט"
+
+msgid "Text color"
+msgstr "צבע טקסט"
+
+msgid "Text:"
+msgstr "טקסט:"
+
+msgid "Texture"
+msgstr "מרקם"
+
+msgid "The passwords don't match."
+msgstr "הסיסמאות אינן תואמות."
+
+msgid "Theme"
+msgstr "ערכת נושא"
+
+msgid "Thickness"
+msgstr "עובי"
+
+msgid "This document has no bookmarks."
+msgstr "אין סימניות במסמך זה."
+
+msgid "Threshold"
+msgstr "סף"
+
+msgid "Thumbnails"
+msgstr "תמונות ממוזערות"
+
+msgid "Tile"
+msgstr "אריח"
+
+msgid "Tile Size"
+msgstr "גודל אריח"
+
+msgid "Tilt"
+msgstr "הטיה"
+
+msgid "Time"
+msgstr "שעה"
+
+msgid "Timecode"
+msgstr "קוד זמן"
+
+msgid "Timeline"
+msgstr "ציר זמן"
+
+msgid "Tint"
+msgstr "גוון צבע"
+
+msgid "Tint Color"
+msgstr "צבע גוון"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "To"
+msgstr "אל"
+
+msgid "Tolerance"
+msgstr "סובלנות"
+
+msgid "Tolerance:"
+msgstr "סובלנות:"
+
+msgid "Tool"
+msgstr "כלי"
+
+msgid "Toolbars"
+msgstr "סרגלי כלים"
+
+msgid "Tools"
+msgstr "כלים"
+
+msgid "Top"
+msgstr "למעלה"
+
+msgid "Top Left"
+msgstr "שמאל למעלה"
+
+msgid "Top Right"
+msgstr "ימין למעלה"
+
+msgid "Top:"
+msgstr "למעלה:"
+
+msgid "Total"
+msgstr "סה\"כ"
+
+msgid "Total:"
+msgstr "סה\"כ:"
+
+msgid "Tracking"
+msgstr "מעקב"
+
+msgid "Transform"
+msgstr "המרה"
+
+msgid "Translate"
+msgstr "תרגום"
+
+msgid "Transparency"
+msgstr "שקיפות"
+
+msgid "Transparent"
+msgstr "שקוף"
+
+msgid "Trap…"
+msgstr "מלכודת צבע…"
+
+msgid "Triangle"
+msgstr "משולש"
+
+msgid "Turbulent"
+msgstr "סוער"
+
+msgid "Twirl"
+msgstr "מערבולת"
+
+msgid "Twist"
+msgstr "פיתול"
+
+msgid "Type"
+msgstr "סוג"
+
+msgid "Type Tool"
+msgstr "כלי טקסט"
+
+msgid "Type:"
+msgstr "סוג:"
+
+msgid "Typewriter"
+msgstr "מכונת כתיבה"
+
+msgid "Type…"
+msgstr "סוג…"
+
+msgid "Typing"
+msgstr "הקלדה"
+
+msgid "Underline"
+msgstr "קו תחתון"
+
+msgid "Undo"
+msgstr "ביטול פעולה"
+
+msgid "Undo {action}"
+msgstr "ביטול {action}"
+
+msgid "Ungroup"
+msgstr "פירוק קבוצה"
+
+msgid "Uniform"
+msgstr "אחיד"
+
+msgid "Union"
+msgstr "איחוד"
+
+msgid "Units"
+msgstr "יחידות"
+
+msgid "Unknown"
+msgstr "לא ידוע"
+
+msgid "Unlock"
+msgstr "שחרור נעילה"
+
+msgid "Unsaved changes"
+msgstr "שינויים שלא נשמרו"
+
+msgid "Unsharp Mask"
+msgstr "מסכת חידוד"
+
+msgid "Untitled"
+msgstr "ללא שם"
+
+msgid "Up"
+msgstr "למעלה"
+
+msgid "Update"
+msgstr "עדכון"
+
+msgid "Updates"
+msgstr "עדכונים"
+
+msgid "UPPERCASE"
+msgstr "אותיות גדולות"
+
+msgid "Use Default"
+msgstr "שימוש בברירת מחדל"
+
+msgid "User"
+msgstr "משתמש"
+
+msgid "Username"
+msgstr "שם משתמש"
+
+msgid "Value"
+msgstr "ערך"
+
+msgid "Value:"
+msgstr "ערך:"
+
+msgid "Variables"
+msgstr "משתנים"
+
+msgid "Version"
+msgstr "גרסה"
+
+msgid "Version {version}"
+msgstr "גרסה {version}"
+
+msgid "Vertical"
+msgstr "אנכי"
+
+msgid "Vertical Alignment"
+msgstr "יישור אנכי"
+
+msgid "Vertical Type Tool"
+msgstr "כלי טקסט אנכי"
+
+msgid "Vertically"
+msgstr "אנכית"
+
+msgid "Very High"
+msgstr "גבוה מאוד"
+
+msgid "Vibrance"
+msgstr "חיוניות"
+
+msgid "Video"
+msgstr "וידאו"
+
+msgid "View"
+msgstr "תצוגה"
+
+msgid "Violet"
+msgstr "סגלגל"
+
+msgid "Visibility"
+msgstr "נראות"
+
+msgid "Vivid Light"
+msgstr "אור חי"
+
+msgid "Voice"
+msgstr "קול"
+
+msgid "W:"
+msgstr "ר:"
+
+msgid "Warning"
+msgstr "אזהרה"
+
+msgid "Warnings"
+msgstr "אזהרות"
+
+msgid "Warp"
+msgstr "עיקום"
+
+msgid "Watermark"
+msgstr "סימן מים"
+
+msgid "Wave"
+msgstr "גל"
+
+msgid "Wave…"
+msgstr "גל…"
+
+msgid "Web"
+msgstr "אינטרנט"
+
+msgid "Website"
+msgstr "אתר אינטרנט"
+
+msgid "Weight"
+msgstr "משקל"
+
+msgid "Wet"
+msgstr "רטוב"
+
+msgid "White"
+msgstr "לבן"
+
+msgid "White Intensity"
+msgstr "עוצמת לבן"
+
+msgid "White Is High"
+msgstr "לבן הוא גבוה"
+
+msgid "Whites"
+msgstr "לבנים"
+
+msgid "Width"
+msgstr "רוחב"
+
+msgid "Width and Height"
+msgstr "רוחב וגובה"
+
+msgid "Width:"
+msgstr "רוחב:"
+
+msgid "Window"
+msgstr "חלון"
+
+msgid "Windows"
+msgstr "חלונות"
+
+msgid "Words"
+msgstr "מילים"
+
+msgid "Working CMYK"
+msgstr "CMYK עבודה"
+
+msgid "Workspace"
+msgstr "סביבת עבודה"
+
+msgid "Workspaces"
+msgstr "סביבות עבודה"
+
+msgid "X"
+msgstr "X"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Yellow"
+msgstr "צהוב"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "yesterday"
+msgstr "אתמול"
+
+msgid "Your changes will be lost if you don't save them."
+msgstr "השינויים יאבדו אם לא יישמרו."
+
+msgid "Zoom"
+msgstr "זום"
+
+msgid "Zoom In"
+msgstr "הגדלת התצוגה"
+
+msgid "Zoom in"
+msgstr "הגדלה"
+
+msgid "Zoom Out"
+msgstr "הקטנת התצוגה"
+
+msgid "Zoom out"
+msgstr "הקטנה"
+
+msgid "Zoom Tool"
+msgstr "כלי זום"
+
+msgctxt "unit"
+msgid "{n} B"
+msgstr ""
+
+msgctxt "@plural"
+msgid "{n} byte"
+msgid_plural "{n} bytes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgctxt "@plural"
+msgid "{n} commit"
+msgid_plural "{n} commits"
+msgstr[0] "{n} קומיט"
+msgstr[1] "{n} קומיטים"
+msgstr[2] "{n} קומיטים"
+
+msgid "{n} files"
+msgstr "{n} קבצים"
+
+msgctxt "unit"
+msgid "{n} GB"
+msgstr ""
+
+msgctxt "unit"
+msgid "{n} GiB"
+msgstr ""
+
+msgid "{n} h ago"
+msgstr "לפני {n} שע'"
+
+msgctxt "@plural"
+msgid "{n} item"
+msgid_plural "{n} items"
+msgstr[0] "{n} פריט"
+msgstr[1] "{n} פריטים"
+msgstr[2] "{n} פריטים"
+
+msgctxt "unit"
+msgid "{n} KB"
+msgstr ""
+
+msgctxt "unit"
+msgid "{n} KiB"
+msgstr ""
+
+msgctxt "@plural"
+msgid "{n} Layer"
+msgid_plural "{n} Layers"
+msgstr[0] "{n} שכבה"
+msgstr[1] "{n} שכבות"
+msgstr[2] "{n} שכבות"
+
+msgctxt "unit"
+msgid "{n} MB"
+msgstr ""
+
+msgctxt "unit"
+msgid "{n} MiB"
+msgstr ""
+
+msgid "{n} min ago"
+msgstr "לפני {n} דק'"
+
+msgctxt "@plural"
+msgid "{n} step"
+msgid_plural "{n} steps"
+msgstr[0] "{n} צעד"
+msgstr[1] "{n} צעדים"
+msgstr[2] "{n} צעדים"
+
+msgctxt "unit"
+msgid "{n} TB"
+msgstr ""
+
+msgctxt "unit"
+msgid "{n} TiB"
+msgstr ""
+
+msgid "−Bin"
+msgstr "−בינארי"
+
+msgid "● Recording"
+msgstr "● מקליט"
